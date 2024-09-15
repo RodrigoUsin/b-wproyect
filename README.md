@@ -1,5 +1,7 @@
-# Photobyn
+# Black and white proyect
 
-A website to show my work in black and white
+A website to show my work in black and white.
 
-20204/08/29 commit files html & css
+This is my first solo project, in which I aim to showcase the knowledge I have acquired in HTML and CSS.
+
+
